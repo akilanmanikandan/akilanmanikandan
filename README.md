@@ -1,16 +1,17 @@
-## Hi there 👋
+# Akilan Manikandan
 
-<!--
-**akilanmanikandan/akilanmanikandan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Roles:** Data Scientist | SDE | Backend Developer  
+**Skills:** Python, SQL, Java, Figma, Canva
 
-Here are some ideas to get you started:
+**Projects:**  
+- CityPulse Chatbot  
+- Speech Emotion Recognition
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Certifications:**  
+- Python for Data Science (NPTEL, 70%)  
+- Internships: Cleandesk, Simbiotik
+
+**Links:**  
+[LinkedIn](https://www.linkedin.com/in/akilanmanikandan) | [Instagram](https://www.instagram.com/akilann.m)
+
+**Hobbies:** Singing, Writing, Reading
