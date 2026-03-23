@@ -5,7 +5,7 @@
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Backend+%26+Automation+Engineer;Building+production-grade+APIs;Turning+manual+ops+into+pipelines;FastAPI+%7C+Django+%7C+Spring+Boot+%7C+NestJS;Let's+build+something+remarkable." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Backend+%26+Automation+Engineer;Building+production-grade+APIs;Turning+manual+ops+into+pipelines;FastAPI+%7C+Django+%7C+Spring+Boot+%7C+NestJS;Let%27s+build+something+remarkable." alt="Typing SVG" />
 </a>
 
 <br/>
@@ -14,7 +14,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Akilan%20Manikandan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/akilanmanikandan)
 [![GitHub](https://img.shields.io/badge/GitHub-akilanmanikandan-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/akilanmanikandan)
 [![Email](https://img.shields.io/badge/Email-i.akilanoffl%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:i.akilanoffl@gmail.com)
-[![Location](https://img.shields.io/badge/Chennai%2C%20India-📍-302b63?style=for-the-badge)](https://github.com/akilanmanikandan)
+[![Location](https://img.shields.io/badge/Chennai%2C%20India-%F0%9F%93%8D-302b63?style=for-the-badge)](https://github.com/akilanmanikandan)
 
 </div>
 
@@ -22,7 +22,11 @@
 
 ## 👋 About Me
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1200&color=A78BFA&width=750&lines=Backend+engineer+based+in+Chennai%2C+India;Final+year+CSE+%40+SRM+Institute+(2022-2026);1%2B+year+building+production+APIs+%26+automation+systems;I+own+features+end-to-end+%E2%80%94+schema+to+deployment;Currently+open+to+full-time+backend+%2F+SWE+roles" alt="About Me" />
+- 🎓 Final year CSE student @ SRM Institute of Science and Technology (2022–2026)
+- 🏙️ Based in Chennai, India
+- 🛠️ 1+ year building production APIs, automation pipelines, and ETL systems
+- 🔁 I own features end-to-end — schema design, API, deployment, monitoring
+- 💼 Currently open to full-time Backend / SWE roles
 
 ---
 
@@ -51,18 +55,18 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=python&logoColor=white)
 
-### 🤖 Automation & Scraping
+### 🤖 Automation and Scraping
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 ![Scrapy](https://img.shields.io/badge/Scrapy-60A839?style=for-the-badge&logo=python&logoColor=white)
 
-### ☁️ Cloud & Tools
+### ☁️ Cloud and Tools
 ![AWS S3](https://img.shields.io/badge/AWS%20S3-FF9900?style=for-the-badge&logo=amazons3&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
-### 🧠 AI / ML
+### 🧠 AI and ML
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI%20API-412991?style=for-the-badge&logo=openai&logoColor=white)
@@ -78,9 +82,9 @@
 
 | Project | Stack | Highlights |
 |--------|-------|------------|
-| 🔐 **Secure File Sharing System** | Java · Spring Boot · Flask · AES-256 · RSA · scikit-learn | Multi-role file vault with anomaly detection & real-time alerts |
-| 🗺️ **CityPulse — Event Chatbot** | FastAPI · Next.js · MongoDB · LangChain · Scrapy | RAG chatbot over 1,200+ events, <2s response time |
-| 📊 **KPI & Dashboard Automation Suite** | n8n · PostgreSQL · Power BI REST API | 46 workflows, eliminated 3 hrs/day of manual analytics validation |
+| 🔐 **Secure File Sharing System** | Java · Spring Boot · Flask · AES-256 · RSA · scikit-learn | Multi-role file vault with anomaly detection and real-time alerts |
+| 🗺️ **CityPulse — Event Chatbot** | FastAPI · Next.js · MongoDB · LangChain · Scrapy | RAG chatbot over 1,200+ events, under 2s response time |
+| 📊 **KPI and Dashboard Automation Suite** | n8n · PostgreSQL · Power BI REST API | 46 workflows, eliminated 3 hrs/day of manual analytics validation |
 
 </div>
 
@@ -109,7 +113,7 @@
 | ☕ Java Full Stack | Simbiotik Technologies | 2024 |
 | 💻 Software Development | Prodigy InfoTech | 2024 |
 | 🗄️ DBMS Completion | Udemy | 2024 |
-| 🐍 Python & AI/ML Fundamentals | Infosys Springboard | 2023 |
+| 🐍 Python and AI/ML Fundamentals | Infosys Springboard | 2023 |
 
 ---
 
