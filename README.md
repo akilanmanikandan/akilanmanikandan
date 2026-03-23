@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Akilan%20Manikandan&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=I%20ship%20code%2C%20break%20crons%20%26%20automate%20the%20boring%20stuff&descAlignY=60&descColor=a78bfa" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0f0c29,50:302b63,100:24243e&amp;height=200&amp;section=header&amp;text=Akilan%20Manikandan&amp;fontSize=50&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=I%20ship%20code%2C%20break%20crons%20%26%20automate%20the%20boring%20stuff&amp;descAlignY=60&amp;descColor=a78bfa" width="100%" />
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Backend+%26+Automation+Engineer;Building+production-grade+APIs;Turning+manual+ops+into+pipelines;FastAPI+%7C+Django+%7C+Spring+Boot+%7C+NestJS;Let%27s+build+something+remarkable." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;pause=1000&amp;color=A78BFA&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=Backend+%26+Automation+Engineer;Building+production-grade+APIs;Turning+manual+ops+into+pipelines;FastAPI+%7C+Django+%7C+Spring+Boot+%7C+NestJS;Let%27s+build+something+remarkable." alt="Typing SVG" />
 </a>
 
 <br/>
@@ -94,10 +94,10 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=akilanmanikandan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akilanmanikandan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" height="165" />
+<img src="https://github-readme-stats.vercel.app/api?username=akilanmanikandan&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=a78bfa&amp;icon_color=a78bfa&amp;text_color=c9d1d9" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akilanmanikandan&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=a78bfa&amp;text_color=c9d1d9" height="165" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=akilanmanikandan&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" width="500" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=akilanmanikandan&amp;theme=tokyonight&amp;hide_border=true&amp;background=0d1117&amp;ring=a78bfa&amp;fire=a78bfa&amp;currStreakLabel=a78bfa" width="500" />
 
 </div>
 
@@ -120,7 +120,7 @@
 <div align="center">
 
 <!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=akilanmanikandan&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a78bfa&line=a78bfa&point=ffffff" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=akilanmanikandan&amp;theme=tokyo-night&amp;hide_border=true&amp;bg_color=0d1117&amp;color=a78bfa&amp;line=a78bfa&amp;point=ffffff" width="100%" />
 
 <br/>
 
@@ -128,6 +128,6 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=akilanmanikandan&color=a78bfa&style=for-the-badge&label=PROFILE+VIEWS)
 
 <!-- Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:24243e,50:302b63,100:0f0c29&amp;height=120&amp;section=footer" width="100%" />
 
 </div>
