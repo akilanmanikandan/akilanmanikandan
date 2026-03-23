@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Akilan%20Manikandan&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Engineer%20%7C%20Automation%20Architect%20%7C%20AI%20Builder&descAlignY=60&descColor=a78bfa" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Akilan%20Manikandan&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=I%20ship%20code%2C%20break%20crons%20%26%20automate%20the%20boring%20stuff&descAlignY=60&descColor=a78bfa" width="100%" />
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
@@ -20,28 +20,9 @@
 
 ---
 
-## 🧠 About Me
+## 👋 About Me
 
-```python
-class AkilanManikandan:
-    def __init__(self):
-        self.role        = "Backend & Automation Engineer"
-        self.location    = "Chennai, India 🇮🇳"
-        self.education   = "B.Tech CSE @ SRM Institute (2022–2026)"
-        self.experience  = "1+ year building production systems"
-
-    @property
-    def current_focus(self):
-        return [
-            "🔧 Building config-driven automation pipelines",
-            "🚀 Designing scalable REST APIs",
-            "🤖 Integrating AI/LLM into real workflows",
-            "📊 End-to-end ETL & analytics systems",
-        ]
-
-    def __repr__(self):
-        return "Engineer who ships, not just codes."
-```
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1200&color=A78BFA&width=750&lines=Backend+engineer+based+in+Chennai%2C+India;Final+year+CSE+%40+SRM+Institute+(2022-2026);1%2B+year+building+production+APIs+%26+automation+systems;I+own+features+end-to-end+%E2%80%94+schema+to+deployment;Currently+open+to+full-time+backend+%2F+SWE+roles" alt="About Me" />
 
 ---
 
@@ -91,35 +72,6 @@ class AkilanManikandan:
 
 ---
 
-## 💼 Experience Timeline
-
-```
-🏢 Clarivium Technologies          Aug 2025 – Mar 2026
-   Software Engineer
-   ├── 50+ Python automation scripts → saved 8+ hrs/day of manual ops
-   ├── 12 end-to-end RPA pipelines (Playwright + PyAutoGUI)
-   ├── PostgreSQL orchestration layer → ~90% reduction in duplicate runs
-   ├── 5-type ETL ingestion system → 20+ daily cycles, zero failures
-   ├── AWS S3 automated delivery via boto3
-   └── 48 n8n workflows for 10-branch automotive KPI monitoring
-
-🏢 CleandeskAI                     Apr 2025 – Jul 2025
-   Backend Developer
-   ├── 5 Django REST Framework API endpoints (production PostgreSQL)
-   └── Resolved 10+ backend defects, improved endpoint reliability
-
-🏢 Simbiotik Technologies          May 2024 – Jun 2024
-   Backend Engineer
-   ├── NestJS + MongoDB HRMS platform — CRUD APIs, ABAC role guards
-   └── JWT + Passport auth, bcrypt, OTP-based MFA
-
-🏢 Zidio Development               Jul 2024 – Aug 2024
-   AI/ML Engineer
-   └── Speech emotion recognition LSTM pipeline on TESS dataset (8-class)
-```
-
----
-
 ## 🚀 Featured Projects
 
 <div align="center">
@@ -158,27 +110,6 @@ class AkilanManikandan:
 | 💻 Software Development | Prodigy InfoTech | 2024 |
 | 🗄️ DBMS Completion | Udemy | 2024 |
 | 🐍 Python & AI/ML Fundamentals | Infosys Springboard | 2023 |
-
----
-
-## 🔥 What I'm All About
-
-<div align="center">
-
-```
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║   "Don't just automate tasks — automate entire workflows."   ║
-║                                                              ║
-║   ✦ Production over prototypes                               ║
-║   ✦ Full-feature ownership: schema → API → deployment        ║
-║   ✦ Reliable, auditable, replayable systems                  ║
-║   ✦ AI as infrastructure, not a gimmick                      ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
-```
-
-</div>
 
 ---
 
