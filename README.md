@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0f0c29,50:302b63,100:24243e&amp;height=200&amp;section=header&amp;text=Akilan%20Manikandan&amp;fontSize=50&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=I%20ship%20code%2C%20break%20crons%20%26%20automate%20the%20boring%20stuff&amp;descAlignY=60&amp;descColor=a78bfa" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Akilan%20Manikandan&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=I%20ship%20code%2C%20break%20crons%20%26%20automate%20the%20boring%20stuff&descAlignY=60&descColor=a78bfa" width="100%" />
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;pause=1000&amp;color=A78BFA&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=Backend+%26+Automation+Engineer;Building+production-grade+APIs;Turning+manual+ops+into+pipelines;FastAPI+%7C+Django+%7C+Spring+Boot+%7C+NestJS;Let%27s+build+something+remarkable." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Backend+%26+Automation+Engineer;Building+production-grade+APIs;Turning+manual+ops+into+pipelines;FastAPI+%7C+Django+%7C+Spring+Boot+%7C+NestJS;Let%27s+build+something+remarkable." />
 </a>
 
 <br/>
