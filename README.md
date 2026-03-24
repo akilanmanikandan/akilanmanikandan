@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Akilan%20Manikandan&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=I%20ship%20code,%20break%20crons%20%26%20automate%20the%20boring%20stuff&descAlignY=60&descColor=a78bfa)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Akilan%20Manikandan&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=I%20ship%20code,%20break%20crons%20and%20automate%20the%20boring%20stuff&descAlignY=60&descColor=a78bfa)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Backend+%26+Automation+Engineer;Building+production-grade+APIs;Turning+manual+ops+into+pipelines;FastAPI+%7C+Django+%7C+Spring+Boot+%7C+NestJS)](https://git.io/typing-svg)
 
