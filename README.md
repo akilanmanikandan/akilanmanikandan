@@ -1,20 +1,15 @@
 <div align="center">
 
-<!-- Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0f0c29,50:302b63,100:24243e&amp;height=200&amp;section=header&amp;text=Akilan%20Manikandan&amp;fontSize=50&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=I%20ship%20code%2C%20break%20crons%20%26%20automate%20the%20boring%20stuff&amp;descAlignY=60&amp;descColor=a78bfa" width="100%" />
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Akilan%20Manikandan&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=I%20ship%20code,%20break%20crons%20%26%20automate%20the%20boring%20stuff&descAlignY=60&descColor=a78bfa)
 
-<!-- Typing Animation -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;pause=1000&amp;color=A78BFA&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=Backend+%26+Automation+Engineer;Building+production-grade+APIs;Turning+manual+ops+into+pipelines;FastAPI+%7C+Django+%7C+Spring+Boot+%7C+NestJS;Let%27s+build+something+remarkable." alt="Typing SVG" />
-</a>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Backend+%26+Automation+Engineer;Building+production-grade+APIs;Turning+manual+ops+into+pipelines;FastAPI+%7C+Django+%7C+Spring+Boot+%7C+NestJS)](https://git.io/typing-svg)
 
 <br/>
 
-<!-- Social Badges -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Akilan%20Manikandan-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white)](https://linkedin.com/in/akilanmanikandan)
-[![GitHub](https://img.shields.io/badge/GitHub-akilanmanikandan-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white)](https://github.com/akilanmanikandan)
-[![Email](https://img.shields.io/badge/Email-i.akilanoffl%40gmail.com-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white)](mailto:i.akilanoffl@gmail.com)
-[![Location](https://img.shields.io/badge/Chennai%2C%20India-%F0%9F%93%8D-302b63?style=for-the-badge)](https://github.com/akilanmanikandan)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Akilan%20Manikandan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/akilanmanikandan)
+[![GitHub](https://img.shields.io/badge/GitHub-akilanmanikandan-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/akilanmanikandan)
+[![Email](https://img.shields.io/badge/Email-i.akilanoffl%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:i.akilanoffl@gmail.com)
+[![Location](https://img.shields.io/badge/Chennai%2C%20India-📍-302b63?style=for-the-badge)](https://github.com/akilanmanikandan)
 
 </div>
 
@@ -35,42 +30,42 @@
 <div align="center">
 
 ### 🖥️ Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&amp;logo=openjdk&amp;logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&amp;logo=typescript&amp;logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&amp;logo=javascript&amp;logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&amp;logo=postgresql&amp;logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&amp;logo=cplusplus&amp;logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 ### 🏗️ Backend Frameworks
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&amp;logo=fastapi&amp;logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&amp;logo=springboot&amp;logoColor=white)
-![Django](https://img.shields.io/badge/Django%20REST-092E20?style=for-the-badge&amp;logo=django&amp;logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&amp;logo=nestjs&amp;logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&amp;logo=flask&amp;logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&amp;logo=nextdotjs&amp;logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Django](https://img.shields.io/badge/Django%20REST-092E20?style=for-the-badge&logo=django&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
 ### 🗄️ Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&amp;logo=postgresql&amp;logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&amp;logo=mongodb&amp;logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&amp;logo=python&amp;logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=python&logoColor=white)
 
 ### 🤖 Automation and Scraping
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&amp;logo=playwright&amp;logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&amp;logo=selenium&amp;logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&amp;logo=n8n&amp;logoColor=white)
-![Scrapy](https://img.shields.io/badge/Scrapy-60A839?style=for-the-badge&amp;logo=python&amp;logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Scrapy](https://img.shields.io/badge/Scrapy-60A839?style=for-the-badge&logo=python&logoColor=white)
 
 ### ☁️ Cloud and Tools
-![AWS S3](https://img.shields.io/badge/AWS%20S3-FF9900?style=for-the-badge&amp;logo=amazons3&amp;logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&amp;logo=git&amp;logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&amp;logo=powerbi&amp;logoColor=black)
+![AWS S3](https://img.shields.io/badge/AWS%20S3-FF9900?style=for-the-badge&logo=amazons3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 ### 🧠 AI and ML
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&amp;logo=tensorflow&amp;logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&amp;logo=langchain&amp;logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI%20API-412991?style=for-the-badge&amp;logo=openai&amp;logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&amp;logo=scikitlearn&amp;logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI%20API-412991?style=for-the-badge&logo=openai&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 
 </div>
 
@@ -94,10 +89,11 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=akilanmanikandan&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=a78bfa&amp;icon_color=a78bfa&amp;text_color=c9d1d9" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akilanmanikandan&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=a78bfa&amp;text_color=c9d1d9" height="165" />
+![stats](https://github-readme-stats.vercel.app/api?username=akilanmanikandan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9)
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=akilanmanikandan&amp;theme=tokyonight&amp;hide_border=true&amp;background=0d1117&amp;ring=a78bfa&amp;fire=a78bfa&amp;currStreakLabel=a78bfa" width="500" />
+![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akilanmanikandan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9)
+
+![streak](https://github-readme-streak-stats.herokuapp.com/?user=akilanmanikandan&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa)
 
 </div>
 
@@ -119,15 +115,10 @@
 
 <div align="center">
 
-<!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=akilanmanikandan&amp;theme=tokyo-night&amp;hide_border=true&amp;bg_color=0d1117&amp;color=a78bfa&amp;line=a78bfa&amp;point=ffffff" width="100%" />
+![activity](https://github-readme-activity-graph.vercel.app/graph?username=akilanmanikandan&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a78bfa&line=a78bfa&point=ffffff)
 
-<br/>
+![views](https://komarev.com/ghpvc/?username=akilanmanikandan&color=a78bfa&style=for-the-badge&label=PROFILE+VIEWS)
 
-<!-- Profile Views Counter -->
-![Profile Views](https://komarev.com/ghpvc/?username=akilanmanikandan&amp;color=a78bfa&amp;style=for-the-badge&amp;label=PROFILE+VIEWS)
-
-<!-- Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:24243e,50:302b63,100:0f0c29&amp;height=120&amp;section=footer" width="100%" />
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer)
 
 </div>
